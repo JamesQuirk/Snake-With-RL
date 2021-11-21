@@ -1,0 +1,7 @@
+train:
+  agent: random
+  steps: 1000
+env:
+  grid_shape: [60,80]
+  reward:
+    cherry: 1
